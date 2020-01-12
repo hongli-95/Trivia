@@ -1,0 +1,14 @@
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\bin\Debug\ProjectBeta.exe.config
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\bin\Debug\ProjectBeta.exe
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\bin\Debug\ProjectBeta.pdb
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.csprojResolveAssemblyReference.cache
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.Main.resources
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\ProjectBeta.Properties.Resources.resources
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.QuestionEntry.resources
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.csproj.GenerateResource.Cache
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.csproj.CoreCompileInputs.cache
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\ProjectBeta.exe
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\ProjectBeta.pdb
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.QuestionEdit.resources
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.QuestionSearch.resources
+C:\Users\joele\source\repos\ProjectBeta\ProjectBeta\obj\Debug\TriviaNow.GameForm.resources
